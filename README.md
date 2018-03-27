@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ansible Role: Nexus 3 OSS
 
 This role installs and configures Nexus Repository Manager OSS version 3.x on CentOS/RHEL.
@@ -400,3 +401,6 @@ Author Information
 ------------------
 
 See https://github.com/savoirfairelinux/ansible-nexus3-oss
+=======
+# nexus_latest_ansible_role
+>>>>>>> 5ec8ccc64a7122a9eb81c34d9bcb9d7f9d774d6c
